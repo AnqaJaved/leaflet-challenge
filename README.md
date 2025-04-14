@@ -39,19 +39,9 @@ You can view the project online here:
 
 ---
 
-## 🖼 Screenshots
-
-### Leaflet Part 1  
-![Leaflet Part 1](screenshots/Leaflet-Part-1.jpg)
-
-### Leaflet Part 2  
-![Leaflet Part 2](screenshots/Leaflet-Part-2.jpg)
-
----
-
 ##  Author
 
-Created with 💛 by **Anqa Javed**  
+Created  by **Anqa Javed**  
 University of Toronto – Data Analytics Bootcamp  
 GitHub: [@anqajaved](https://github.com/anqajaved)
 
